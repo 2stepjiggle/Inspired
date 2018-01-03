@@ -1,0 +1,125 @@
+body {
+	margin: 0px;
+}
+
+
+div {
+	display: ;
+	position: absolute;
+	background: ;
+	border-radius: 20px;
+	margin: auto;
+	top: 300px;
+	left: 620px;
+		
+}
+
+
+
+p {
+	text-align: center;
+	margin: 10px;
+	padding: 20px;
+	font-size: 40px;
+}
+
+.instruction {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	background: ;
+	
+}
+
+.instruction p {
+	font-size: 30px;
+}
+
+.instruction #saying 
+{	
+	position: relative;
+	display: inline-block;
+	border-top: 3px solid #f2f2f2;
+	border-bottom: 3px solid black;
+	border-left: 3px solid  #999999;
+	border-right: 3px solid  #999999;
+	left: 33%;
+}
+
+.instruction #click {
+	font-size: 20px;
+}
+
+input {
+	position: relative;
+	left: 550px;
+	top: 350px;
+	padding: 5px;
+	width: 400px;
+}
+
+#submit {
+	width: 100px;
+	border-radius: 5px;
+}
+.one {
+	background: #66ff66;
+}
+
+.two {
+	background: #1ad1ff;
+}
+
+.three {
+	background: #ffcc66;
+}
+
+.four {
+	background: #ff33cc;
+}
+
+.five {
+	background: #4d4dff;
+}
+
+
+.six {
+	background: #809fff;
+}
+
+.seven {
+	background: #884dff;
+}
+
+.eight {
+	background: #ff6666;
+}
+
+.nine {
+	background: #c653c6;
+}
+
+.ten {
+	background: #ccff33;
+}
+
+.eleven {
+	background: #4dff4d;
+}
+
+.twelve {
+	background: #00ffff;
+}
+
+.thirteen {
+	background:  #1ad1ff;
+}
+
+
+.fourteen {
+	background: #3333ff;
+}
+
+.fifteen {
+	background: #ffff33;
+}
